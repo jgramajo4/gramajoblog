@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life Learning on ExampleSite</title>
+    <link>http://localhost:1313/tags/life-learning/</link>
+    <description>Recent content in Life Learning on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/life-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/after-school-special-post-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/after-school-special-post-6/</guid>
+      <description>&lt;p&gt;I officially have been working and learning about Python for over a month now. It is crazy how fast time flies; my leave of absence feels like an eternity ago.&lt;/p&gt;
+&lt;p&gt;The funny thing about learning Python for the past month is that first week I was ready to quit. I even managed to email our teacher and tell him I couldn’t do it and that it wasn’t for me. It may have been a mixture of my person life problems and with how difficult it was to wrap my head around all of it. Whatever it was, I was glad to know that by speaking to the people that care about me I was able to take a breath and realize that failing was okay even in my time of hardship. Because of that moment I now know that Python isn’t some crazy idea that I had in my head, it is something that I can do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/beginning-of-building-a-site-post-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beginning-of-building-a-site-post-2/</guid>
+      <description>&lt;p&gt;Alright, since my last post I attempted to build a site. I think I did more research on what would be the easiest way than actually doing anything haha. I ended up using Weebly as that was one that many people said for a non-technical person that would be best. I have a published site now, check it out &lt;a href=&#34;https://www.jgramajo4.com&#34;&gt;www.jgramajo4.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I wasn’t too sure what exactly I should put on it since I don’t really make anything (portfolio) that would require me to show off to get a job (I work in legal lol). But I still went ahead and built it so I could say I have a site since it seems that everyone here in the valley has one. It may not be fancy or the coolest but it is a start. I am sure not many guys in legal have even a simple website like mine. I will keep browsing to get more inspiration and maybe throw in some pics I take once I get my Sony A7ii.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

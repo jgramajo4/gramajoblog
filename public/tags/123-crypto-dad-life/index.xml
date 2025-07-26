@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>123 Crypto Dad Life on ExampleSite</title>
+    <link>http://localhost:1313/tags/123-crypto-dad-life/</link>
+    <description>Recent content in 123 Crypto Dad Life on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/123-crypto-dad-life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/1-2-3-getting-older/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1-2-3-getting-older/</guid>
+      <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1711137707-0.JPG&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-thoughts&#34;&gt;2. Thoughts&lt;/h2&gt;
+&lt;p&gt;As my birthday approaches and passes, I can&amp;rsquo;t help but think of my past, present and future. Which puts me in a weird mood to be honest. I&amp;rsquo;ve been a father now for over a year and even that reminds me of what we as individuals carry which is our past and our parents wants and desires. Our current self and what we want and desire and the path we are creating now and now that I have a kid, what I want for her. It is a trip and makes me appreciate the things my parents did for me.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/1-2-3-parenthood-and-soraai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1-2-3-parenthood-and-soraai/</guid>
+      <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1708114093-0.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I went to Europe last summer for over 5 weeks and it was a blast. It is a bit nuts to think we went out there for that long with a sub 9 month old kid but it was well worth it. This picture is from San Sebastian which I could see myself living there and raising a family.&lt;/p&gt;
+&lt;h2 id=&#34;2-thoughts&#34;&gt;2. Thoughts&lt;/h2&gt;
+&lt;p&gt;OpenAI recently announced a text to video editor, called &lt;a href=&#34;https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai&#34;&gt;SoraAI&lt;/a&gt;. In a world where AI images and videos keep getting better and better, exponentially. How the hell are we supposed to tell what is real? The thought that comes to mind is taking some of the principles of PGP and want it wanted to do and attest a message or something as really being you. A digital cryptographic signature that user can use validate to verify it was truly you. With most blockchains supporting a public and private key, I don&amp;rsquo;t think we are too far away for this becoming a reality.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
