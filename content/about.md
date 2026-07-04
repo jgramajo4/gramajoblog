@@ -5,7 +5,7 @@ summary: "Who I am and what I'm about"
 showToc: false
 ---
 
-I'm Juan. I live in the Bay Area with my wife Rachael and our two kids.
+I'm Juan. I live in the Bay Area with my wife and our two kids.
 
 My family is from Guatemala. We came to the US when I was one — my parents were fleeing the civil war, and my dad had been kidnapped a few times, each one worse than the last. I grew up in Marin County, went through the entire American school system, and spent 25+ years inside the immigration system while I did it. Most of the time I feel American. Then something reminds me I'm not quite, and I remember I'm one of a few hundred thousand people stuck in a weird in-between. That thread shows up in a lot of what I write here.
 
