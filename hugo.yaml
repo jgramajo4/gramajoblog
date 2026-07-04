@@ -5,6 +5,7 @@ title: "Juan Gramajo"
 copyright: "Juan Gramajo"
 
 languageCode: en-us
+theme: "PaperMod"
 
 pagination:
   pagerSize: 8
@@ -127,7 +128,3 @@ markup:
   goldmark:
     renderer:
       unsafe: true            # allow inline HTML in markdown when you need it
-
-module:
-  imports:
-    - path: github.com/adityatelange/hugo-PaperMod
