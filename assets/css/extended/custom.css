@@ -395,3 +395,63 @@ button:focus-visible,
   .first-entry { padding-top: 28px; }
   .post-entry { padding: 18px 18px; }
 }
+
+/* PROFILE MODE — homepage hero with photo + CTA buttons --------------- */
+.profile {
+  text-align: center;
+  padding: 60px 0 40px;
+}
+.profile img {
+  border-radius: 50%;
+  box-shadow: var(--shadow-md);
+  border: 3px solid var(--border);
+  margin-bottom: 1.2em;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.profile img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 40px -12px rgba(24, 24, 27, 0.3);
+}
+.profile h1 {
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  background: var(--accent-grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+.profile .profile-subtitle {
+  font-size: 1.12rem;
+  color: var(--secondary);
+  max-width: 28em;
+  margin: 0.6em auto 1.8em;
+  line-height: 1.6;
+}
+.profile .buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+.profile .buttons a {
+  display: inline-block;
+  padding: 8px 22px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--entry);
+  color: var(--primary);
+  font-weight: 550;
+  font-size: 0.94rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-sm);
+}
+.profile .buttons a:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-soft);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}

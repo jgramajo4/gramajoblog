@@ -55,14 +55,27 @@ params:
   hidemeta: false
   hideSummary: false
 
-  # Homepage intro. This is the first thing a reader sees — make it sell.
-  homeInfoParams:
-    Title: "Hey, I'm Juan 👋"
-    Content: >
-      I write about building a small web3 media thing (**0773H**), figuring out
-      fatherhood, and learning in public — plus the occasional game, book, or
-      trip that stuck with me. Some of these posts go back to 2016, when I was
-      teaching myself to code. Poke around.
+  # Homepage — centered profile with photo, tagline, and CTA buttons.
+  # Readers land and immediately know who this is and where to go.
+  profileMode:
+    enabled: true
+    title: "Juan Gramajo"
+    subtitle: >
+      Building in web3, learning in public, raising two kids.
+      Legal ops at Asana · Nouns DAO · 0773H · Bay Area.
+    imageUrl: "/images/profile.jpg"
+    imageWidth: 140
+    imageHeight: 140
+    imageTitle: "Juan Gramajo"
+    buttons:
+      - name: Posts
+        url: /posts/
+      - name: Projects
+        url: /projects/
+      - name: About
+        url: /about/
+      - name: Photography
+        url: /photography/
 
   socialIcons:
     - name: github
@@ -102,18 +115,30 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 15
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: photography
+      name: Photos
+      url: /photography/
+      weight: 25
     - identifier: archive
       name: Archive
       url: /archives/
-      weight: 20
+      weight: 30
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 30
+      weight: 40
     - identifier: search
       name: Search
       url: /search/
-      weight: 40
+      weight: 50
 
 pygmentsUseClasses: true
 
