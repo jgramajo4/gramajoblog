@@ -9,7 +9,7 @@
       <url>https://gramajo.blog/og-image.png</url>
       <link>https://gramajo.blog/og-image.png</link>
     </image>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Juan Gramajo</copyright>
     <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
@@ -79,7 +79,7 @@
       <link>https://gramajo.blog/posts/montreal-final-day/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://gramajo.blog/posts/montreal-final-day/</guid>
-      <description>&lt;p&gt;Final day in Montreal. Rachael was able to find the old post office I was after for my NFT project (Gramajo’s Delivery Service). We even randomly found a old school Royal Mail box at Crew Collective which was a place we went to on the first day which was nice.&lt;/p&gt;
+      <description>&lt;p&gt;Final day in Montreal. My wife was able to find the old post office I was after for my NFT project (Gramajo’s Delivery Service). We even randomly found a old school Royal Mail box at Crew Collective which was a place we went to on the first day which was nice.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Montreal&#34; loading=&#34;lazy&#34; src=&#34;https://gramajo.blog/images/7849EB1D-A632-475F-A41C-3639E9CA662C.jpeg&#34;&gt;
 From there we went to the Norte Dame Basilica. Which we toured for a bit and most just sat down since we walked a lot this trip.&lt;/p&gt;</description>
     </item>
@@ -153,6 +153,27 @@ From there we went to the Norte Dame Basilica. Which we toured for a bit and mos
       <guid>https://gramajo.blog/posts/the-introduction-post-1/</guid>
       <description>&lt;p&gt;They say the best way to learn something is to just start. With this post I plan to accomplish that. I have been debating the very nature of this for quite some time and realized that I was spending way more time doing that than actually starting.&lt;/p&gt;
 &lt;p&gt;Although the reason for starting is not something I would wish on anyone else(will share next Monday). I am here now, writing and doing what I am not very good at doing in person. I am starting blog!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://gramajo.blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/about/</guid>
+      <description>Who I am and what I&amp;rsquo;m about</description>
+    </item>
+    <item>
+      <title>Photography</title>
+      <link>https://gramajo.blog/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/photography/</guid>
+      <description>Photos I&amp;rsquo;ve taken</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://gramajo.blog/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/projects/</guid>
+      <description>Things I&amp;rsquo;ve built</description>
     </item>
   </channel>
 </rss>

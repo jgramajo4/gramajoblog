@@ -1,0 +1,42 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.163.3"
+    }
+  },
+  "installCommand": "git submodule update --init --recursive || true",
+  "buildCommand": "if [ ! -f themes/PaperMod/theme.toml ]; then rm -rf themes/PaperMod && git clone --depth 1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod; fi && curl -fsSL \"https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz\" | tar -xz -C /tmp hugo && /tmp/hugo --gc --minify --baseURL \"https://gramajo.blog/\"",
+  "outputDirectory": "public",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "www.gramajo.blog" }],
+      "destination": "https://gramajo.blog/$1",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=63072000; includeSubDomains; preload"
+        },
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+      ]
+    },
+    {
+      "source": "/index.json",
+      "headers": [{ "key": "Content-Type", "value": "application/json; charset=utf-8" }]
+    },
+    {
+      "source": "/assets/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+    }
+  ]
+}

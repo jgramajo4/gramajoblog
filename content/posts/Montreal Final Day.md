@@ -5,7 +5,7 @@ tags:
 date: 2022-09-04
 ---
 
-Final day in Montreal. Rachael was able to find the old post office I was after for my NFT project (Gramajo’s Delivery Service). We even randomly found a old school Royal Mail box at Crew Collective which was a place we went to on the first day which was nice.
+Final day in Montreal. My wife was able to find the old post office I was after for my NFT project (Gramajo’s Delivery Service). We even randomly found a old school Royal Mail box at Crew Collective which was a place we went to on the first day which was nice.
 
 ![Montreal](/images/7849EB1D-A632-475F-A41C-3639E9CA662C.jpeg)
 From there we went to the Norte Dame Basilica. Which we toured for a bit and most just sat down since we walked a lot this trip.
