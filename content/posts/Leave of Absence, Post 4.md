@@ -1,8 +1,8 @@
 ---
-Title: Leave of Absence, Post 4
+title: Leave of Absence, Post 4
 tags:
   - life
-Date Created: 2016-10-09
+date: 2016-10-09
 ---
 There wasn’t much soccer over the weekend so I did not make a new post yesterday.
 

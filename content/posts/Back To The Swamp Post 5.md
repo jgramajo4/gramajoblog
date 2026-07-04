@@ -1,8 +1,8 @@
 ---
-Title: Back To The Swamp Post 5 
+title: Back To The Swamp Post 5 
 tags:
   - life
-Date Created: 2016-10-30
+date: 2016-10-30
 ---
 What a day! It has been a chaotic couple of weeks but it feels good to have a life back on track. For those that have read my previous posts, I ran into some issues on timing regarding my work permit. Everything was done properly and the immigration found a new way on messing thousands of people’s work permits.
 

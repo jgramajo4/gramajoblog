@@ -1,9 +1,9 @@
 ---
-Title: Farcaster Daily, Onchain Media
+title: Farcaster Daily, Onchain Media
 tags:
   - farcaster
   - crypto
-Date Created: 2024-02-29
+date: 2024-02-29
 ---
 I've been diving deeper and deeper into minting my work onchain. From my newsletter to my podcast (You can find my newsletter [here](https://paragraph.xyz/@0xgramajo), and podcast [here](https://pods.media/behind-the-screen/)).
 

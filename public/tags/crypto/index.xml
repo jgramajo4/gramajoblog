@@ -1,29 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Crypto on ExampleSite</title>
-    <link>https://examplesite.com/tags/crypto/</link>
-    <description>Recent content in Crypto on ExampleSite</description>
+    <title>Crypto on Juan Gramajo</title>
+    <link>https://gramajo.blog/tags/crypto/</link>
+    <description>Recent content in Crypto on Juan Gramajo</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Juan Gramajo</title>
+      <url>https://gramajo.blog/og-image.png</url>
+      <link>https://gramajo.blog/og-image.png</link>
     </image>
-    <generator>Hugo -- 0.148.1</generator>
-    <language>en</language>
-    <atom:link href="https://examplesite.com/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <copyright>Juan Gramajo</copyright>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gramajo.blog/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>0773H World</title>
-      <link>https://examplesite.com/posts/0773h-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/0773h-world/</guid>
-      <description>&lt;p&gt;I recently made the decision to move this type of writing into my own personal blog vs my Web3 &lt;a href=&#34;https://gramajo.substack.com/&#34;&gt;newsletter&lt;/a&gt;. I did this for one main reason, and that was mostly because I did not want to detract from Web3 with my own shenanigans. I felt that some users may not want to be there as I explored my creative journey. Now the newsletter is strictly web3, collectible and culture. While this blog here will serve as my own avenue of writing and my learning as I create a web3 media company (whatever that means).&lt;/p&gt;</description>
+      <title>1-2-3, Getting Older</title>
+      <link>https://gramajo.blog/posts/1-2-3-getting-older/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/1-2-3-getting-older/</guid>
+      <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1711137707-0.JPG&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-thoughts&#34;&gt;2. Thoughts&lt;/h2&gt;
+&lt;p&gt;As my birthday approaches and passes, I can&amp;rsquo;t help but think of my past, present and future. Which puts me in a weird mood to be honest. I&amp;rsquo;ve been a father now for over a year and even that reminds me of what we as individuals carry which is our past and our parents wants and desires. Our current self and what we want and desire and the path we are creating now and now that I have a kid, what I want for her. It is a trip and makes me appreciate the things my parents did for me.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Farcaster Daily, AMA&#39;s</title>
+      <link>https://gramajo.blog/posts/farcaster-daily-amas/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/farcaster-daily-amas/</guid>
+      <description>&lt;p&gt;I will be running an AMA with Bastien later this month. To recap the event I was planning on using this tool called &lt;a href=&#34;https://www.blabla.lol/&#34;&gt;blabla&lt;/a&gt; to create a piece of content that can be enjoyed again and again without just pasting them into my newsletter. This tool seems like it will make text-based AMAs have some sort of life post event. Looking forward to getting access and using it with Bastien.&lt;/p&gt;
+&lt;p&gt;An example of this tool and its utility can be found &lt;a href=&#34;https://warpcast.com/jackjack.eth/0xaa95e5cf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Farcaster Daily, Onchain Media</title>
+      <link>https://gramajo.blog/posts/farcaster-daily-onchain-media/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/farcaster-daily-onchain-media/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been diving deeper and deeper into minting my work onchain. From my newsletter to my podcast (You can find my newsletter &lt;a href=&#34;https://paragraph.xyz/@0xgramajo&#34;&gt;here&lt;/a&gt;, and podcast &lt;a href=&#34;https://pods.media/behind-the-screen/&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1709315859-0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In today&amp;rsquo;s post I want to highlight the &lt;a href=&#34;https://apps.apple.com/us/app/surreal-app/id6443731990&#34;&gt;Surreal team&lt;/a&gt;. They make a good looking app that helps you find, collect and enjoy the media you have acquired along the way. You can find more information in their &lt;a href=&#34;https://warpcast.com/~/channel/surreal&#34;&gt;Farcaster channel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1709316006-0.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Subscribe to my blog via &lt;a href=&#34;gramajo.bearblog.dev/subscribe/&#34;&gt;Email&lt;/a&gt; or &lt;a href=&#34;gramajo.bearblog.dev/feed/&#34;&gt;RSS feed&lt;/a&gt;. If you subscribe via email, I will only send you an email once every two weeks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1-2-3, Parenthood and SoraAI</title>
+      <link>https://gramajo.blog/posts/1-2-3-parenthood-and-soraai/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/1-2-3-parenthood-and-soraai/</guid>
+      <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1708114093-0.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I went to Europe last summer for over 5 weeks and it was a blast. It is a bit nuts to think we went out there for that long with a sub 9 month old kid but it was well worth it. This picture is from San Sebastian which I could see myself living there and raising a family.&lt;/p&gt;
+&lt;h2 id=&#34;2-thoughts&#34;&gt;2. Thoughts&lt;/h2&gt;
+&lt;p&gt;OpenAI recently announced a text to video editor, called &lt;a href=&#34;https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai&#34;&gt;SoraAI&lt;/a&gt;. In a world where AI images and videos keep getting better and better, exponentially. How the hell are we supposed to tell what is real? The thought that comes to mind is taking some of the principles of PGP and want it wanted to do and attest a message or something as really being you. A digital cryptographic signature that user can use validate to verify it was truly you. With most blockchains supporting a public and private key, I don&amp;rsquo;t think we are too far away for this becoming a reality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>1-2-3, A New Dawn</title>
-      <link>https://examplesite.com/posts/1-2-3-a-new-dawn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/1-2-3-a-new-dawn/</guid>
+      <link>https://gramajo.blog/posts/1-2-3-a-new-dawn/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/1-2-3-a-new-dawn/</guid>
       <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
 &lt;p&gt;I haven&amp;rsquo;t been working out as much since my daughter was born. Mostly because of how tired I have been with lack of sleep. But now we are in a rhythm, so this felt amazing.
 &lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1707278593-0.PNG&#34;&gt;&lt;/p&gt;
@@ -33,44 +68,11 @@
 &lt;p&gt;Sometimes the poverty of creators is not the fault of the system but of individual weakness&lt;/p&gt;</description>
     </item>
     <item>
-      <title>1-2-3, Getting Older</title>
-      <link>https://examplesite.com/posts/1-2-3-getting-older/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/1-2-3-getting-older/</guid>
-      <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1711137707-0.JPG&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;2-thoughts&#34;&gt;2. Thoughts&lt;/h2&gt;
-&lt;p&gt;As my birthday approaches and passes, I can&amp;rsquo;t help but think of my past, present and future. Which puts me in a weird mood to be honest. I&amp;rsquo;ve been a father now for over a year and even that reminds me of what we as individuals carry which is our past and our parents wants and desires. Our current self and what we want and desire and the path we are creating now and now that I have a kid, what I want for her. It is a trip and makes me appreciate the things my parents did for me.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>1-2-3, Parenthood and SoraAI</title>
-      <link>https://examplesite.com/posts/1-2-3-parenthood-and-soraai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/1-2-3-parenthood-and-soraai/</guid>
-      <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1708114093-0.JPG&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I went to Europe last summer for over 5 weeks and it was a blast. It is a bit nuts to think we went out there for that long with a sub 9 month old kid but it was well worth it. This picture is from San Sebastian which I could see myself living there and raising a family.&lt;/p&gt;
-&lt;h2 id=&#34;2-thoughts&#34;&gt;2. Thoughts&lt;/h2&gt;
-&lt;p&gt;OpenAI recently announced a text to video editor, called &lt;a href=&#34;https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai&#34;&gt;SoraAI&lt;/a&gt;. In a world where AI images and videos keep getting better and better, exponentially. How the hell are we supposed to tell what is real? The thought that comes to mind is taking some of the principles of PGP and want it wanted to do and attest a message or something as really being you. A digital cryptographic signature that user can use validate to verify it was truly you. With most blockchains supporting a public and private key, I don&amp;rsquo;t think we are too far away for this becoming a reality.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Farcaster Daily, AMA&#39;s</title>
-      <link>https://examplesite.com/posts/farcaster-daily-amas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/farcaster-daily-amas/</guid>
-      <description>&lt;p&gt;I will be running an AMA with Bastien later this month. To recap the event I was planning on using this tool called &lt;a href=&#34;https://www.blabla.lol/&#34;&gt;blabla&lt;/a&gt; to create a piece of content that can be enjoyed again and again without just pasting them into my newsletter. This tool seems like it will make text-based AMAs have some sort of life post event. Looking forward to getting access and using it with Bastien.&lt;/p&gt;
-&lt;p&gt;An example of this tool and its utility can be found &lt;a href=&#34;https://warpcast.com/jackjack.eth/0xaa95e5cf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Farcaster Daily, Onchain Media</title>
-      <link>https://examplesite.com/posts/farcaster-daily-onchain-media/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/farcaster-daily-onchain-media/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been diving deeper and deeper into minting my work onchain. From my newsletter to my podcast (You can find my newsletter &lt;a href=&#34;https://paragraph.xyz/@0xgramajo&#34;&gt;here&lt;/a&gt;, and podcast &lt;a href=&#34;https://pods.media/behind-the-screen/&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1709315859-0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;In today&amp;rsquo;s post I want to highlight the &lt;a href=&#34;https://apps.apple.com/us/app/surreal-app/id6443731990&#34;&gt;Surreal team&lt;/a&gt;. They make a good looking app that helps you find, collect and enjoy the media you have acquired along the way. You can find more information in their &lt;a href=&#34;https://warpcast.com/~/channel/surreal&#34;&gt;Farcaster channel&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1709316006-0.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Subscribe to my blog via &lt;a href=&#34;gramajo.bearblog.dev/subscribe/&#34;&gt;Email&lt;/a&gt; or &lt;a href=&#34;gramajo.bearblog.dev/feed/&#34;&gt;RSS feed&lt;/a&gt;. If you subscribe via email, I will only send you an email once every two weeks.&lt;/p&gt;</description>
+      <title>0773H World</title>
+      <link>https://gramajo.blog/posts/0773h-world/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/0773h-world/</guid>
+      <description>&lt;p&gt;I recently made the decision to move this type of writing into my own personal blog vs my Web3 &lt;a href=&#34;https://gramajo.substack.com/&#34;&gt;newsletter&lt;/a&gt;. I did this for one main reason, and that was mostly because I did not want to detract from Web3 with my own shenanigans. I felt that some users may not want to be there as I explored my creative journey. Now the newsletter is strictly web3, collectible and culture. While this blog here will serve as my own avenue of writing and my learning as I create a web3 media company (whatever that means).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

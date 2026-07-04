@@ -1,13 +1,26 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+# ⚠️ SET THIS to your real domain before deploying (Vercel custom domain or *.vercel.app URL).
+# Every absolute URL, the sitemap, RSS, and OpenGraph tags derive from it.
+baseURL: "https://gramajo.blog/"
+title: "Juan Gramajo"
+copyright: "Juan Gramajo"
+
+languageCode: en-us
 
 pagination:
-  pagerSize: 5
+  pagerSize: 8
 
 enableRobotsTXT: true
+enableEmoji: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
+# Needed for the search page (Fuse.js reads /index.json)
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 minify:
   disableXML: true
@@ -15,86 +28,62 @@ minify:
 
 params:
   env: production
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  title: "Juan Gramajo"
+  description: "Notes on building in web3, raising a kid, learning in public, and whatever else is on my mind. From 0773H and the daily grind."
+  keywords: [web3, crypto, farcaster, writing, parenthood, building in public]
+  author: "Juan Gramajo"
+  # og image used when a post has no cover of its own
+  images: ["/og-image.png"]
+  DateFormat: "Jan 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false        # the 7-icon share row reads busy/dated — off for a cleaner footer
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true      # was false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
+  ShowToc: true                  # nice on the longer essays
+  TocOpen: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
 
-  assets:
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
-
-  label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
-
-  profileMode:
-    enabled: false
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
-
+  # Homepage intro. This is the first thing a reader sees — make it sell.
   homeInfoParams:
-    Title: "Hi there 👋"
-    Content: Welcome to my blog
+    Title: "Hey, I'm Juan 👋"
+    Content: >
+      I write about building a small web3 media thing (**0773H**), figuring out
+      fatherhood, and learning in public — plus the occasional game, book, or
+      trip that stuck with me. Some of these posts go back to 2016, when I was
+      teaching myself to code. Poke around.
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      title: "Code on GitHub"
+      url: "https://github.com/jgramajo4"
+    - name: substack
+      title: "0773H on Substack"
+      url: "https://gramajo.substack.com/"
+    - name: rss
+      title: "Subscribe via RSS"
+      url: "/index.xml"
+    # - name: x            # ← add your handle and uncomment
+    #   url: "https://x.com/YOURHANDLE"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # Palette + typography redesigned in assets/css/extended/custom.css;
+  # both themes get an intentional look instead of PaperMod's default gray.
 
   cover:
-    hidden: true
-    hiddenInList: true
-    hiddenInSingle: true
-
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+    responsiveImages: true
 
   fuseOpts:
     isCaseSensitive: false
@@ -108,24 +97,36 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: posts
+      name: Posts
+      url: /posts/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: archive
+      name: Archive
+      url: /archives/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
 
 pygmentsUseClasses: true
 
 markup:
   highlight:
-    noClasses: false
+    noClasses: false          # use CSS classes so our theme controls code colors
+    style: monokai
+    lineNos: false
+    codeFences: true
+    guessSyntax: true
+    tabWidth: 2
+  goldmark:
+    renderer:
+      unsafe: true            # allow inline HTML in markdown when you need it
 
 module:
   imports:

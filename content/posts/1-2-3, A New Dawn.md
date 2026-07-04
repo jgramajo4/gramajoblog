@@ -1,11 +1,11 @@
 ---
-Title: 1-2-3, A New Dawn
+title: 1-2-3, A New Dawn
 tags:
   - 123
   - crypto
   - business
   - life
-Date Created: 2024-02-06
+date: 2024-02-06
 ---
 ## 1. Photo
 I haven't been working out as much since my daughter was born. Mostly because of how tired I have been with lack of sleep. But now we are in a rhythm, so this felt amazing.

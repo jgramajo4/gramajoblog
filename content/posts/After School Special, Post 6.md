@@ -1,9 +1,9 @@
 ---
-Title: After School Special, Post 6
+title: After School Special, Post 6
 tags:
   - life
   - learning
-Date Created: 2016-11-16
+date: 2016-11-16
 ---
 I officially have been working and learning about Python for over a month now. It is crazy how fast time flies; my leave of absence feels like an eternity ago.
 

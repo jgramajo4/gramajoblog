@@ -1,9 +1,9 @@
 ---
-Title: Beginning of Building A Site, Post 2
+title: Beginning of Building A Site, Post 2
 tags:
   - life
   - learning
-Date Created: 2016-10-04
+date: 2016-10-04
 ---
 Alright, since my last post I attempted to build a site. I think I did more research on what would be the easiest way than actually doing anything haha. I ended up using Weebly as that was one that many people said for a non-technical person that would be best. I have a published site now, check it out www.jgramajo4.com.
 

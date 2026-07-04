@@ -1,8 +1,8 @@
 ---
-Title: Review Titanfall 2, Post 7
+title: Review Titanfall 2, Post 7
 tags:
   - gaming
-Date Created: 2016-12-04
+date: 2016-12-04
 ---
 I am usually a big gamer but after finally playing the Last of Us for the first time early in the year, I took a huge break from gaming. I definitely needed a break after playing that game, and they just announced part 2!!!
 

@@ -1,8 +1,8 @@
 ---
-Title: The Introduction, Post 1
+title: The Introduction, Post 1
 tags:
   - life
-Date Created: 2016-10-02
+date: 2016-10-02
 ---
 They say the best way to learn something is to just start. With this post I plan to accomplish that. I have been debating the very nature of this for quite some time and realized that I was spending way more time doing that than actually starting.
 

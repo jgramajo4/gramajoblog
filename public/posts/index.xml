@@ -1,29 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ExampleSite</title>
-    <link>https://examplesite.com/posts/</link>
-    <description>Recent content in Posts on ExampleSite</description>
+    <title>Posts on Juan Gramajo</title>
+    <link>https://gramajo.blog/posts/</link>
+    <description>Recent content in Posts on Juan Gramajo</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Juan Gramajo</title>
+      <url>https://gramajo.blog/og-image.png</url>
+      <link>https://gramajo.blog/og-image.png</link>
     </image>
-    <generator>Hugo -- 0.148.1</generator>
-    <language>en</language>
-    <atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <copyright>Juan Gramajo</copyright>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gramajo.blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>0773H World</title>
-      <link>https://examplesite.com/posts/0773h-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/0773h-world/</guid>
-      <description>&lt;p&gt;I recently made the decision to move this type of writing into my own personal blog vs my Web3 &lt;a href=&#34;https://gramajo.substack.com/&#34;&gt;newsletter&lt;/a&gt;. I did this for one main reason, and that was mostly because I did not want to detract from Web3 with my own shenanigans. I felt that some users may not want to be there as I explored my creative journey. Now the newsletter is strictly web3, collectible and culture. While this blog here will serve as my own avenue of writing and my learning as I create a web3 media company (whatever that means).&lt;/p&gt;</description>
+      <title>1-2-3, Getting Older</title>
+      <link>https://gramajo.blog/posts/1-2-3-getting-older/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/1-2-3-getting-older/</guid>
+      <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1711137707-0.JPG&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-thoughts&#34;&gt;2. Thoughts&lt;/h2&gt;
+&lt;p&gt;As my birthday approaches and passes, I can&amp;rsquo;t help but think of my past, present and future. Which puts me in a weird mood to be honest. I&amp;rsquo;ve been a father now for over a year and even that reminds me of what we as individuals carry which is our past and our parents wants and desires. Our current self and what we want and desire and the path we are creating now and now that I have a kid, what I want for her. It is a trip and makes me appreciate the things my parents did for me.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Farcaster Daily, AMA&#39;s</title>
+      <link>https://gramajo.blog/posts/farcaster-daily-amas/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/farcaster-daily-amas/</guid>
+      <description>&lt;p&gt;I will be running an AMA with Bastien later this month. To recap the event I was planning on using this tool called &lt;a href=&#34;https://www.blabla.lol/&#34;&gt;blabla&lt;/a&gt; to create a piece of content that can be enjoyed again and again without just pasting them into my newsletter. This tool seems like it will make text-based AMAs have some sort of life post event. Looking forward to getting access and using it with Bastien.&lt;/p&gt;
+&lt;p&gt;An example of this tool and its utility can be found &lt;a href=&#34;https://warpcast.com/jackjack.eth/0xaa95e5cf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Farcaster Daily, Onchain Media</title>
+      <link>https://gramajo.blog/posts/farcaster-daily-onchain-media/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/farcaster-daily-onchain-media/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been diving deeper and deeper into minting my work onchain. From my newsletter to my podcast (You can find my newsletter &lt;a href=&#34;https://paragraph.xyz/@0xgramajo&#34;&gt;here&lt;/a&gt;, and podcast &lt;a href=&#34;https://pods.media/behind-the-screen/&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1709315859-0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In today&amp;rsquo;s post I want to highlight the &lt;a href=&#34;https://apps.apple.com/us/app/surreal-app/id6443731990&#34;&gt;Surreal team&lt;/a&gt;. They make a good looking app that helps you find, collect and enjoy the media you have acquired along the way. You can find more information in their &lt;a href=&#34;https://warpcast.com/~/channel/surreal&#34;&gt;Farcaster channel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1709316006-0.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Subscribe to my blog via &lt;a href=&#34;gramajo.bearblog.dev/subscribe/&#34;&gt;Email&lt;/a&gt; or &lt;a href=&#34;gramajo.bearblog.dev/feed/&#34;&gt;RSS feed&lt;/a&gt;. If you subscribe via email, I will only send you an email once every two weeks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1-2-3, Parenthood and SoraAI</title>
+      <link>https://gramajo.blog/posts/1-2-3-parenthood-and-soraai/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/1-2-3-parenthood-and-soraai/</guid>
+      <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1708114093-0.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I went to Europe last summer for over 5 weeks and it was a blast. It is a bit nuts to think we went out there for that long with a sub 9 month old kid but it was well worth it. This picture is from San Sebastian which I could see myself living there and raising a family.&lt;/p&gt;
+&lt;h2 id=&#34;2-thoughts&#34;&gt;2. Thoughts&lt;/h2&gt;
+&lt;p&gt;OpenAI recently announced a text to video editor, called &lt;a href=&#34;https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai&#34;&gt;SoraAI&lt;/a&gt;. In a world where AI images and videos keep getting better and better, exponentially. How the hell are we supposed to tell what is real? The thought that comes to mind is taking some of the principles of PGP and want it wanted to do and attest a message or something as really being you. A digital cryptographic signature that user can use validate to verify it was truly you. With most blockchains supporting a public and private key, I don&amp;rsquo;t think we are too far away for this becoming a reality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>1-2-3, A New Dawn</title>
-      <link>https://examplesite.com/posts/1-2-3-a-new-dawn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/1-2-3-a-new-dawn/</guid>
+      <link>https://gramajo.blog/posts/1-2-3-a-new-dawn/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/1-2-3-a-new-dawn/</guid>
       <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
 &lt;p&gt;I haven&amp;rsquo;t been working out as much since my daughter was born. Mostly because of how tired I have been with lack of sleep. But now we are in a rhythm, so this felt amazing.
 &lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1707278593-0.PNG&#34;&gt;&lt;/p&gt;
@@ -33,124 +68,91 @@
 &lt;p&gt;Sometimes the poverty of creators is not the fault of the system but of individual weakness&lt;/p&gt;</description>
     </item>
     <item>
-      <title>1-2-3, Getting Older</title>
-      <link>https://examplesite.com/posts/1-2-3-getting-older/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/1-2-3-getting-older/</guid>
-      <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1711137707-0.JPG&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;2-thoughts&#34;&gt;2. Thoughts&lt;/h2&gt;
-&lt;p&gt;As my birthday approaches and passes, I can&amp;rsquo;t help but think of my past, present and future. Which puts me in a weird mood to be honest. I&amp;rsquo;ve been a father now for over a year and even that reminds me of what we as individuals carry which is our past and our parents wants and desires. Our current self and what we want and desire and the path we are creating now and now that I have a kid, what I want for her. It is a trip and makes me appreciate the things my parents did for me.&lt;/p&gt;</description>
+      <title>0773H World</title>
+      <link>https://gramajo.blog/posts/0773h-world/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/0773h-world/</guid>
+      <description>&lt;p&gt;I recently made the decision to move this type of writing into my own personal blog vs my Web3 &lt;a href=&#34;https://gramajo.substack.com/&#34;&gt;newsletter&lt;/a&gt;. I did this for one main reason, and that was mostly because I did not want to detract from Web3 with my own shenanigans. I felt that some users may not want to be there as I explored my creative journey. Now the newsletter is strictly web3, collectible and culture. While this blog here will serve as my own avenue of writing and my learning as I create a web3 media company (whatever that means).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>1-2-3, Parenthood and SoraAI</title>
-      <link>https://examplesite.com/posts/1-2-3-parenthood-and-soraai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/1-2-3-parenthood-and-soraai/</guid>
-      <description>&lt;h2 id=&#34;1-photo&#34;&gt;1. Photo&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1708114093-0.JPG&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I went to Europe last summer for over 5 weeks and it was a blast. It is a bit nuts to think we went out there for that long with a sub 9 month old kid but it was well worth it. This picture is from San Sebastian which I could see myself living there and raising a family.&lt;/p&gt;
-&lt;h2 id=&#34;2-thoughts&#34;&gt;2. Thoughts&lt;/h2&gt;
-&lt;p&gt;OpenAI recently announced a text to video editor, called &lt;a href=&#34;https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai&#34;&gt;SoraAI&lt;/a&gt;. In a world where AI images and videos keep getting better and better, exponentially. How the hell are we supposed to tell what is real? The thought that comes to mind is taking some of the principles of PGP and want it wanted to do and attest a message or something as really being you. A digital cryptographic signature that user can use validate to verify it was truly you. With most blockchains supporting a public and private key, I don&amp;rsquo;t think we are too far away for this becoming a reality.&lt;/p&gt;</description>
+      <title>Montreal Final Day</title>
+      <link>https://gramajo.blog/posts/montreal-final-day/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/montreal-final-day/</guid>
+      <description>&lt;p&gt;Final day in Montreal. Rachael was able to find the old post office I was after for my NFT project (Gramajo’s Delivery Service). We even randomly found a old school Royal Mail box at Crew Collective which was a place we went to on the first day which was nice.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Montreal&#34; loading=&#34;lazy&#34; src=&#34;https://gramajo.blog/images/7849EB1D-A632-475F-A41C-3639E9CA662C.jpeg&#34;&gt;
+From there we went to the Norte Dame Basilica. Which we toured for a bit and most just sat down since we walked a lot this trip.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Montreal</title>
+      <link>https://gramajo.blog/posts/montreal/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/montreal/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Came to &lt;a href=&#34;https://yelp.to/JU6RQ7YB1sb&#34;&gt;Cafe Neve&lt;/a&gt; near Mount Royal station. I’m thinking I like Montréal bagels a bit more bc they seem lighter in bread content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;Montreal&#34; loading=&#34;lazy&#34; src=&#34;https://gramajo.blog/images/B83A4604-8600-42DE-8836-439A20F24113.jpeg&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Made it to the top of Mount Royal Park after 5 miles.
+&lt;img alt=&#34;Montreal&#34; loading=&#34;lazy&#34; src=&#34;https://gramajo.blog/images/7D21B780-9F86-4BAA-B75D-DB0FA8188251.jpeg&#34;&gt;&lt;img alt=&#34;Montreal&#34; loading=&#34;lazy&#34; src=&#34;https://gramajo.blog/images/B3AA9AF7-A013-4496-A9FF-E4BE823BFFAF.jpeg&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Review Titanfall 2, Post 7</title>
+      <link>https://gramajo.blog/posts/review-titanfall-2-post-7/</link>
+      <pubDate>Sun, 04 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/review-titanfall-2-post-7/</guid>
+      <description>&lt;p&gt;I am usually a big gamer but after finally playing the Last of Us for the first time early in the year, I took a huge break from gaming. I definitely needed a break after playing that game, and they just announced part 2!!!&lt;/p&gt;
+&lt;p&gt;Anyways, people kept telling me to play Titanfall 2 and to give it a try. I must say when the PS4 was first announced and Titanfall was an Xbox exclusive I lost a lot of interest in the game. Many people were also saying that the game was lacking which made me hesitant for this one.&lt;/p&gt;</description>
     </item>
     <item>
       <title>After School Special, Post 6</title>
-      <link>https://examplesite.com/posts/after-school-special-post-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/after-school-special-post-6/</guid>
+      <link>https://gramajo.blog/posts/after-school-special-post-6/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/after-school-special-post-6/</guid>
       <description>&lt;p&gt;I officially have been working and learning about Python for over a month now. It is crazy how fast time flies; my leave of absence feels like an eternity ago.&lt;/p&gt;
 &lt;p&gt;The funny thing about learning Python for the past month is that first week I was ready to quit. I even managed to email our teacher and tell him I couldn’t do it and that it wasn’t for me. It may have been a mixture of my person life problems and with how difficult it was to wrap my head around all of it. Whatever it was, I was glad to know that by speaking to the people that care about me I was able to take a breath and realize that failing was okay even in my time of hardship. Because of that moment I now know that Python isn’t some crazy idea that I had in my head, it is something that I can do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Back To The Swamp Post 5</title>
-      <link>https://examplesite.com/posts/back-to-the-swamp-post-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/back-to-the-swamp-post-5/</guid>
+      <link>https://gramajo.blog/posts/back-to-the-swamp-post-5/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/back-to-the-swamp-post-5/</guid>
       <description>&lt;p&gt;What a day! It has been a chaotic couple of weeks but it feels good to have a life back on track. For those that have read my previous posts, I ran into some issues on timing regarding my work permit. Everything was done properly and the immigration found a new way on messing thousands of people’s work permits.&lt;/p&gt;
 &lt;p&gt;This included me. Luckily for me, I work at an amazing company that realized the circumstances were out of my control and I am back at work after being gone for a month. I feel blessed to work such a great place where they care about employees.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Beginning of Building A Site, Post 2</title>
-      <link>https://examplesite.com/posts/beginning-of-building-a-site-post-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/beginning-of-building-a-site-post-2/</guid>
-      <description>&lt;p&gt;Alright, since my last post I attempted to build a site. I think I did more research on what would be the easiest way than actually doing anything haha. I ended up using Weebly as that was one that many people said for a non-technical person that would be best. I have a published site now, check it out &lt;a href=&#34;https://www.jgramajo4.com&#34;&gt;www.jgramajo4.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I wasn’t too sure what exactly I should put on it since I don’t really make anything (portfolio) that would require me to show off to get a job (I work in legal lol). But I still went ahead and built it so I could say I have a site since it seems that everyone here in the valley has one. It may not be fancy or the coolest but it is a start. I am sure not many guys in legal have even a simple website like mine. I will keep browsing to get more inspiration and maybe throw in some pics I take once I get my Sony A7ii.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Farcaster Daily, AMA&#39;s</title>
-      <link>https://examplesite.com/posts/farcaster-daily-amas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/farcaster-daily-amas/</guid>
-      <description>&lt;p&gt;I will be running an AMA with Bastien later this month. To recap the event I was planning on using this tool called &lt;a href=&#34;https://www.blabla.lol/&#34;&gt;blabla&lt;/a&gt; to create a piece of content that can be enjoyed again and again without just pasting them into my newsletter. This tool seems like it will make text-based AMAs have some sort of life post event. Looking forward to getting access and using it with Bastien.&lt;/p&gt;
-&lt;p&gt;An example of this tool and its utility can be found &lt;a href=&#34;https://warpcast.com/jackjack.eth/0xaa95e5cf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Farcaster Daily, Onchain Media</title>
-      <link>https://examplesite.com/posts/farcaster-daily-onchain-media/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/farcaster-daily-onchain-media/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been diving deeper and deeper into minting my work onchain. From my newsletter to my podcast (You can find my newsletter &lt;a href=&#34;https://paragraph.xyz/@0xgramajo&#34;&gt;here&lt;/a&gt;, and podcast &lt;a href=&#34;https://pods.media/behind-the-screen/&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1709315859-0.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;In today&amp;rsquo;s post I want to highlight the &lt;a href=&#34;https://apps.apple.com/us/app/surreal-app/id6443731990&#34;&gt;Surreal team&lt;/a&gt;. They make a good looking app that helps you find, collect and enjoy the media you have acquired along the way. You can find more information in their &lt;a href=&#34;https://warpcast.com/~/channel/surreal&#34;&gt;Farcaster channel&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;gramajo&amp;rsquo;s blog&#34; loading=&#34;lazy&#34; src=&#34;https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1709316006-0.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Subscribe to my blog via &lt;a href=&#34;gramajo.bearblog.dev/subscribe/&#34;&gt;Email&lt;/a&gt; or &lt;a href=&#34;gramajo.bearblog.dev/feed/&#34;&gt;RSS feed&lt;/a&gt;. If you subscribe via email, I will only send you an email once every two weeks.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Leave of Absence, Post 4</title>
-      <link>https://examplesite.com/posts/leave-of-absence-post-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/leave-of-absence-post-4/</guid>
+      <link>https://gramajo.blog/posts/leave-of-absence-post-4/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/leave-of-absence-post-4/</guid>
       <description>&lt;p&gt;There wasn’t much soccer over the weekend so I did not make a new post yesterday.&lt;/p&gt;
 &lt;p&gt;For today’s post, I will be writing about what exactly is going on and why exactly I am starting to do all this.&lt;/p&gt;
 &lt;p&gt;I felt that starting off with this post as Post #1 would have been too aggressive as I do not intend for my blog to be only about this one issue.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Montreal</title>
-      <link>https://examplesite.com/posts/montreal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/montreal/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Came to &lt;a href=&#34;https://yelp.to/JU6RQ7YB1sb&#34;&gt;Cafe Neve&lt;/a&gt; near Mount Royal station. I’m thinking I like Montréal bagels a bit more bc they seem lighter in bread content.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;![[B83A4604-8600-42DE-8836-439A20F24113.jpeg]]&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Made it to the top of Mount Royal Park after 5 miles.
-![[7D21B780-9F86-4BAA-B75D-DB0FA8188251.jpeg]]![[B3AA9AF7-A013-4496-A9FF-E4BE823BFFAF.jpeg]]&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <title>Y The Last Man Trade Paperback No 1</title>
+      <link>https://gramajo.blog/posts/y-the-last-man-trade-paperback-no-1/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/y-the-last-man-trade-paperback-no-1/</guid>
+      <description>&lt;p&gt;Y The Last Man trade paperback #1. What a great story and captivating. This started off with a bang and continued strong through out.&lt;/p&gt;
+&lt;p&gt;If you haven&amp;rsquo;t read this, there may be some spoilers, just a heads up. We get introduced to a guy named Yorick and he ends up being the main character. As I am sure many of you are aware, he ends up being the last man in the world (sort of).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Montreal Final Day</title>
-      <link>https://examplesite.com/posts/montreal-final-day/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/montreal-final-day/</guid>
-      <description>&lt;p&gt;Final day in Montreal. Rachael was able to find the old post office I was after for my NFT project (Gramajo’s Delivery Service). We even randomly found a old school Royal Mail box at Crew Collective which was a place we went to on the first day which was nice.&lt;/p&gt;
-&lt;p&gt;![[7849EB1D-A632-475F-A41C-3639E9CA662C.jpeg]]
-From there we went to the Norte Dame Basilica. Which we toured for a bit and most just sat down since we walked a lot this trip.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Review Titanfall 2, Post 7</title>
-      <link>https://examplesite.com/posts/review-titanfall-2-post-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/review-titanfall-2-post-7/</guid>
-      <description>&lt;p&gt;I am usually a big gamer but after finally playing the Last of Us for the first time early in the year, I took a huge break from gaming. I definitely needed a break after playing that game, and they just announced part 2!!!&lt;/p&gt;
-&lt;p&gt;Anyways, people kept telling me to play Titanfall 2 and to give it a try. I must say when the PS4 was first announced and Titanfall was an Xbox exclusive I lost a lot of interest in the game. Many people were also saying that the game was lacking which made me hesitant for this one.&lt;/p&gt;</description>
+      <title>Beginning of Building A Site, Post 2</title>
+      <link>https://gramajo.blog/posts/beginning-of-building-a-site-post-2/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/beginning-of-building-a-site-post-2/</guid>
+      <description>&lt;p&gt;Alright, since my last post I attempted to build a site. I think I did more research on what would be the easiest way than actually doing anything haha. I ended up using Weebly as that was one that many people said for a non-technical person that would be best. I have a published site now, check it out &lt;a href=&#34;https://www.jgramajo4.com&#34;&gt;www.jgramajo4.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I wasn’t too sure what exactly I should put on it since I don’t really make anything (portfolio) that would require me to show off to get a job (I work in legal lol). But I still went ahead and built it so I could say I have a site since it seems that everyone here in the valley has one. It may not be fancy or the coolest but it is a start. I am sure not many guys in legal have even a simple website like mine. I will keep browsing to get more inspiration and maybe throw in some pics I take once I get my Sony A7ii.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Introduction, Post 1</title>
-      <link>https://examplesite.com/posts/the-introduction-post-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/the-introduction-post-1/</guid>
+      <link>https://gramajo.blog/posts/the-introduction-post-1/</link>
+      <pubDate>Sun, 02 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/the-introduction-post-1/</guid>
       <description>&lt;p&gt;They say the best way to learn something is to just start. With this post I plan to accomplish that. I have been debating the very nature of this for quite some time and realized that I was spending way more time doing that than actually starting.&lt;/p&gt;
 &lt;p&gt;Although the reason for starting is not something I would wish on anyone else(will share next Monday). I am here now, writing and doing what I am not very good at doing in person. I am starting blog!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Y The Last Man Trade Paperback No 1</title>
-      <link>https://examplesite.com/posts/y-the-last-man-trade-paperback-no-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/y-the-last-man-trade-paperback-no-1/</guid>
-      <description>&lt;p&gt;Y The Last Man trade paperback #1. What a great story and captivating. This started off with a bang and continued strong through out.&lt;/p&gt;
-&lt;p&gt;If you haven&amp;rsquo;t read this, there may be some spoilers, just a heads up. We get introduced to a guy named Yorick and he ends up being the main character. As I am sure many of you are aware, he ends up being the last man in the world (sort of).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
