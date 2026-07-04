@@ -1,9 +1,9 @@
 ---
-Title: Y The Last Man Trade Paperback No 1
+title: Y The Last Man Trade Paperback No 1
 tags:
   - life
   - collectible
-Date Created: 2016-10-06
+date: 2016-10-06
 ---
 Y The Last Man trade paperback #1. What a great story and captivating. This started off with a bang and continued strong through out.
 

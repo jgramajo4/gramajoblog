@@ -1,9 +1,9 @@
 ---
-Title: 0773H World
+title: 0773H World
 tags:
   - crypto
   - business
-Date Created: 2024-02-02
+date: 2024-02-02
 ---
 I recently made the decision to move this type of writing into my own personal blog vs my Web3 [newsletter](https://gramajo.substack.com/). I did this for one main reason, and that was mostly because I did not want to detract from Web3 with my own shenanigans. I felt that some users may not want to be there as I explored my creative journey. Now the newsletter is strictly web3, collectible and culture. While this blog here will serve as my own avenue of writing and my learning as I create a web3 media company (whatever that means).
 

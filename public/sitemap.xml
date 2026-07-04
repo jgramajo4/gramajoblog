@@ -2,62 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/posts/0773h-world/</loc>
+    <loc>https://gramajo.blog/posts/1-2-3-getting-older/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/1-2-3-a-new-dawn/</loc>
+    <loc>https://gramajo.blog/tags/123/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/1-2-3-getting-older/</loc>
+    <loc>https://gramajo.blog/tags/crypto/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/1-2-3-parenthood-and-soraai/</loc>
+    <loc>https://gramajo.blog/tags/dad/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/123/</loc>
+    <loc>https://gramajo.blog/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/after-school-special-post-6/</loc>
+    <loc>https://gramajo.blog/tags/life/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/back-to-the-swamp-post-5/</loc>
+    <loc>https://gramajo.blog/posts/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/beginning-of-building-a-site-post-2/</loc>
+    <loc>https://gramajo.blog/tags/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/business/</loc>
+    <loc>https://gramajo.blog/tags/farcaster/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://gramajo.blog/posts/farcaster-daily-amas/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/collectible/</loc>
+    <loc>https://gramajo.blog/posts/farcaster-daily-onchain-media/</loc>
+    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/crypto/</loc>
+    <loc>https://gramajo.blog/posts/1-2-3-parenthood-and-soraai/</loc>
+    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/dad/</loc>
+    <loc>https://gramajo.blog/posts/1-2-3-a-new-dawn/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://gramajo.blog/tags/business/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/farcaster/</loc>
+    <loc>https://gramajo.blog/posts/0773h-world/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/farcaster-daily-amas/</loc>
+    <loc>https://gramajo.blog/posts/montreal-final-day/</loc>
+    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/farcaster-daily-onchain-media/</loc>
+    <loc>https://gramajo.blog/tags/travel/</loc>
+    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/gaming/</loc>
+    <loc>https://gramajo.blog/posts/montreal/</loc>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/learning/</loc>
+    <loc>https://gramajo.blog/tags/gaming/</loc>
+    <lastmod>2016-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/leave-of-absence-post-4/</loc>
+    <loc>https://gramajo.blog/posts/review-titanfall-2-post-7/</loc>
+    <lastmod>2016-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/life/</loc>
+    <loc>https://gramajo.blog/posts/after-school-special-post-6/</loc>
+    <lastmod>2016-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/montreal/</loc>
+    <loc>https://gramajo.blog/tags/learning/</loc>
+    <lastmod>2016-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/montreal-final-day/</loc>
+    <loc>https://gramajo.blog/posts/back-to-the-swamp-post-5/</loc>
+    <lastmod>2016-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://gramajo.blog/posts/leave-of-absence-post-4/</loc>
+    <lastmod>2016-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/review-titanfall-2-post-7/</loc>
+    <loc>https://gramajo.blog/tags/collectible/</loc>
+    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://gramajo.blog/posts/y-the-last-man-trade-paperback-no-1/</loc>
+    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/the-introduction-post-1/</loc>
+    <loc>https://gramajo.blog/posts/beginning-of-building-a-site-post-2/</loc>
+    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/travel/</loc>
+    <loc>https://gramajo.blog/posts/the-introduction-post-1/</loc>
+    <lastmod>2016-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/y-the-last-man-trade-paperback-no-1/</loc>
+    <loc>https://gramajo.blog/archives/</loc>
+  </url><url>
+    <loc>https://gramajo.blog/categories/</loc>
+  </url><url>
+    <loc>https://gramajo.blog/search/</loc>
   </url>
 </urlset>

@@ -1,11 +1,11 @@
 ---
-Title: 1-2-3, Parenthood and SoraAI
+title: 1-2-3, Parenthood and SoraAI
 tags:
   - 123
   - crypto
   - dad
   - life
-Date Created: 2024-02-16
+date: 2024-02-16
 ---
 ## 1. Photo
 ![gramajo's blog](https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1708114093-0.JPG)

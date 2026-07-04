@@ -1,0 +1,397 @@
+/* =====================================================================
+   custom.css — personal redesign layer for PaperMod
+   Loaded automatically by PaperMod (concatenated after the core theme,
+   so everything here wins). Pure CSS, no theme fork.
+
+   Sections:
+     1. Fonts
+     2. Design tokens (palette + typography scale, light & dark)
+     3. Base typography & reading experience
+     4. Header / navigation
+     5. Homepage hero (home-info)
+     6. Post list cards
+     7. Links, blockquotes, code, images, tables
+     8. Tags, buttons, misc polish
+     9. Motion & accessibility
+   ===================================================================== */
+
+/* 1. FONTS ----------------------------------------------------------------
+   Inter for a clean, modern look. Loaded from Google Fonts (fine on Vercel).
+   If a reader blocks it, the system stack below is a graceful fallback.
+   To self-host later, drop the .woff2 in static/fonts and swap this @import
+   for a local @font-face. */
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap');
+
+/* 2. DESIGN TOKENS -------------------------------------------------------- */
+:root {
+  /* wider, more comfortable reading measure */
+  --main-width: 740px;
+  --nav-width: 1100px;
+  --gap: 24px;
+  --content-gap: 22px;
+  --radius: 12px;
+
+  --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+
+  /* Light palette — warm off-white paper, near-black ink */
+  --theme: #fcfcfb;
+  --entry: #ffffff;
+  --primary: #18181b;
+  --secondary: #6b6b74;
+  --tertiary: #e6e6e3;
+  --content: #2f2f33;
+  --border: #ececea;
+  --code-bg: #f4f4f2;
+  --code-block-bg: #16171b;
+
+  /* Personal accent: a warm burnt-amber that nods to the 0773H / LCD vibe */
+  --accent: #c2410c;
+  --accent-soft: rgba(194, 65, 12, 0.10);
+  --accent-grad: linear-gradient(115deg, #f59e0b 0%, #ea580c 55%, #d6296b 110%);
+
+  --shadow-sm: 0 1px 2px rgba(24, 24, 27, 0.04), 0 1px 3px rgba(24, 24, 27, 0.06);
+  --shadow-md: 0 6px 20px -6px rgba(24, 24, 27, 0.14), 0 2px 6px rgba(24, 24, 27, 0.06);
+}
+
+.dark {
+  /* Dark palette — deep neutral, intentionally *not* a plain gray invert.
+     Slightly cool near-black, warm accent for contrast. */
+  --theme: #0f0f11;
+  --entry: #17181c;
+  --primary: #f2f2f3;
+  --secondary: #9d9da6;
+  --tertiary: #2a2b30;
+  --content: #cdced3;
+  --border: #24252b;
+  --code-bg: #1c1d22;
+  --code-block-bg: #131418;
+
+  --accent: #fb923c;
+  --accent-soft: rgba(251, 146, 60, 0.14);
+  --accent-grad: linear-gradient(115deg, #fbbf24 0%, #fb7185 110%);
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 10px 30px -10px rgba(0, 0, 0, 0.6);
+}
+
+/* 3. BASE TYPOGRAPHY & READING EXPERIENCE --------------------------------- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font);
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: -0.003em;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  background: var(--theme);
+}
+
+::selection {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* Body copy: generous measure + rhythm */
+.post-content {
+  font-size: 1.06rem;
+  line-height: 1.78;
+  color: var(--content);
+}
+.post-content p {
+  margin: 0 0 1.35em;
+}
+
+/* Headings: tighter, heavier, more deliberate */
+h1, h2, h3, h4, h5, h6,
+.post-title,
+.entry-header h2 {
+  font-weight: 750;
+  letter-spacing: -0.021em;
+  line-height: 1.18;
+}
+.post-title {
+  font-size: 2.3rem;
+  margin-bottom: 0.2em;
+}
+.post-content h2 {
+  font-size: 1.6rem;
+  margin: 2.2rem 0 1rem;
+  padding-top: 0.4rem;
+}
+.post-content h3 { font-size: 1.28rem; margin: 1.8rem 0 0.8rem; }
+
+/* Anchor '#' on hover only, in accent */
+.post-content .anchor { color: var(--accent) !important; }
+
+/* 4. HEADER / NAVIGATION -------------------------------------------------- */
+.nav {
+  padding-block: 6px;
+}
+header.header {
+  background: color-mix(in srgb, var(--theme) 82%, transparent);
+  backdrop-filter: saturate(160%) blur(12px);
+  -webkit-backdrop-filter: saturate(160%) blur(12px);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.logo a {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+#menu a {
+  position: relative;
+  font-weight: 500;
+  transition: color 0.18s ease;
+}
+#menu a::after {
+  content: "";
+  position: absolute;
+  left: 8px; right: 8px; bottom: 2px;
+  height: 2px;
+  background: var(--accent-grad);
+  border-radius: 2px;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.22s ease;
+}
+#menu a:hover { color: var(--primary); background: transparent; }
+#menu a:hover::after { transform: scaleX(1); }
+#menu .active { background: transparent; }
+#menu .active::after { transform: scaleX(1); }
+
+/* 5. HOMEPAGE HERO (home-info) ------------------------------------------- */
+.first-entry {
+  min-height: auto;
+  padding: 44px 0 28px;
+}
+.first-entry .entry-header h1 {
+  font-size: clamp(2.4rem, 6vw, 3.4rem);
+  line-height: 1.06;
+  background: var(--accent-grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  margin-bottom: 0.35em;
+}
+.first-entry .entry-content {
+  font-size: 1.18rem;
+  line-height: 1.65;
+  color: var(--content);
+  opacity: 1;
+  -webkit-line-clamp: none;
+  max-width: 34em;
+}
+.first-entry .entry-content strong { color: var(--primary); }
+.first-entry .social-icons {
+  margin-top: 1.6rem;
+  display: flex;
+  gap: 6px;
+}
+.social-icons a:hover svg { color: var(--accent); }
+
+/* 6. POST LIST CARDS ------------------------------------------------------ */
+.post-entry {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  padding: 22px 24px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+.post-entry:hover {
+  transform: translateY(-3px);
+  border-color: color-mix(in srgb, var(--accent) 40%, var(--border));
+  box-shadow: var(--shadow-md);
+}
+.post-entry:active { transform: translateY(-1px); }
+.entry-header h2 {
+  font-size: 1.4rem;
+  transition: color 0.18s ease;
+}
+.post-entry:hover .entry-header h2 { color: var(--accent); }
+.entry-hint,
+.entry-footer {
+  color: var(--secondary);
+}
+/* pull the date/meta forward a touch */
+.entry-footer { margin-top: 10px; font-size: 0.86rem; }
+
+/* Tag/term pages: pagefind-style pills already look ok; keep tidy */
+
+/* 7. LINKS, QUOTES, CODE, IMAGES, TABLES --------------------------------- */
+.post-content a,
+.post-content a code {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 35%, transparent);
+  transition: text-decoration-color 0.18s ease, color 0.18s ease;
+}
+.post-content a:hover {
+  text-decoration-color: var(--accent);
+}
+
+/* Blockquotes — accent bar, tinted panel, real presence */
+.post-content blockquote {
+  border-inline-start: 3px solid var(--accent);
+  background: var(--accent-soft);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  margin: 1.6em 0;
+  padding: 0.9em 1.3em;
+  color: var(--primary);
+  font-style: italic;
+  font-size: 1.08em;
+}
+.post-content blockquote p:last-child { margin-bottom: 0; }
+
+/* Inline code — subtle chip */
+.post-content :not(pre) > code {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.12em 0.4em;
+  font-size: 0.86em;
+}
+
+/* Code blocks — rounded, bordered, breathing room */
+.post-content pre {
+  border-radius: var(--radius);
+  padding: 1.05em 1.15em;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+.post-content .highlight,
+.post-content pre.chroma {
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+/* copy button (now enabled) */
+.copy-code {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  transition: background 0.18s ease, color 0.18s ease;
+}
+.copy-code:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* Images — soft rounding + subtle frame, and center single images */
+.post-content img {
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  margin-inline: auto;
+}
+.post-content figure { margin-inline: auto; }
+
+/* Tables */
+.post-content table {
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+.post-content table th {
+  background: var(--code-bg);
+  font-weight: 650;
+}
+
+/* Horizontal rule as a soft divider */
+.post-content hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--border) 20%, var(--border) 80%, transparent);
+  margin: 2.4em 0;
+}
+
+/* 8. TAGS, BUTTONS, MISC POLISH ------------------------------------------ */
+.post-tags a,
+.terms-tags a {
+  border: 1px solid var(--border);
+  background: var(--entry);
+  border-radius: 999px;
+  padding: 3px 12px;
+  font-size: 0.82rem;
+  transition: all 0.18s ease;
+}
+.post-tags a:hover,
+.terms-tags a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  transform: translateY(-1px);
+}
+
+/* Pagination + buttons */
+.page-link,
+.paginav a {
+  border-radius: 10px;
+  transition: all 0.18s ease;
+}
+.paginav a:hover { color: var(--accent); }
+
+/* Scroll-to-top */
+.top-link {
+  border-radius: 12px;
+  background: var(--accent);
+  color: #fff;
+}
+.top-link:hover { filter: brightness(1.08); }
+
+/* Table of contents */
+.toc {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--entry);
+}
+.toc .details { font-weight: 650; }
+.toc a:hover { color: var(--accent); }
+
+/* Footer */
+.footer {
+  color: var(--secondary);
+  font-size: 0.82rem;
+}
+.footer a { color: var(--secondary); }
+.footer a:hover { color: var(--accent); }
+
+/* Breadcrumbs + post meta */
+.breadcrumbs a:hover { color: var(--accent); }
+.post-meta { color: var(--secondary); }
+
+/* 9. MOTION & ACCESSIBILITY ---------------------------------------------- */
+a:focus-visible,
+button:focus-visible,
+#menu a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+  .post-entry:hover { transform: none; }
+}
+
+/* Small screens: tighten hero + cards */
+@media (max-width: 700px) {
+  body { font-size: 17px; }
+  .post-title { font-size: 1.9rem; }
+  .first-entry { padding-top: 28px; }
+  .post-entry { padding: 18px 18px; }
+}

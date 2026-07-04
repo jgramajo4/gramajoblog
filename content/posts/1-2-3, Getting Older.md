@@ -1,11 +1,11 @@
 ---
-Title: 1-2-3, Getting Older
+title: 1-2-3, Getting Older
 tags:
   - 123
   - crypto
   - dad
   - life
-Date Created: 2024-03-21
+date: 2024-03-21
 ---
 ## 1. Photo
 ![gramajo's blog](https://bear-images.sfo2.cdn.digitaloceanspaces.com/gramajo-1711137707-0.JPG)

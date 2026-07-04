@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Travel on ExampleSite</title>
-    <link>https://examplesite.com/tags/travel/</link>
-    <description>Recent content in Travel on ExampleSite</description>
+    <title>Travel on Juan Gramajo</title>
+    <link>https://gramajo.blog/tags/travel/</link>
+    <description>Recent content in Travel on Juan Gramajo</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Juan Gramajo</title>
+      <url>https://gramajo.blog/og-image.png</url>
+      <link>https://gramajo.blog/og-image.png</link>
     </image>
-    <generator>Hugo -- 0.148.1</generator>
-    <language>en</language>
-    <atom:link href="https://examplesite.com/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <copyright>Juan Gramajo</copyright>
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gramajo.blog/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Montreal Final Day</title>
+      <link>https://gramajo.blog/posts/montreal-final-day/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/montreal-final-day/</guid>
+      <description>&lt;p&gt;Final day in Montreal. Rachael was able to find the old post office I was after for my NFT project (Gramajo’s Delivery Service). We even randomly found a old school Royal Mail box at Crew Collective which was a place we went to on the first day which was nice.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Montreal&#34; loading=&#34;lazy&#34; src=&#34;https://gramajo.blog/images/7849EB1D-A632-475F-A41C-3639E9CA662C.jpeg&#34;&gt;
+From there we went to the Norte Dame Basilica. Which we toured for a bit and most just sat down since we walked a lot this trip.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Montreal</title>
-      <link>https://examplesite.com/posts/montreal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/montreal/</guid>
+      <link>https://gramajo.blog/posts/montreal/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gramajo.blog/posts/montreal/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Came to &lt;a href=&#34;https://yelp.to/JU6RQ7YB1sb&#34;&gt;Cafe Neve&lt;/a&gt; near Mount Royal station. I’m thinking I like Montréal bagels a bit more bc they seem lighter in bread content.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;![[B83A4604-8600-42DE-8836-439A20F24113.jpeg]]&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Montreal&#34; loading=&#34;lazy&#34; src=&#34;https://gramajo.blog/images/B83A4604-8600-42DE-8836-439A20F24113.jpeg&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Made it to the top of Mount Royal Park after 5 miles.
-![[7D21B780-9F86-4BAA-B75D-DB0FA8188251.jpeg]]![[B3AA9AF7-A013-4496-A9FF-E4BE823BFFAF.jpeg]]&lt;/li&gt;
+&lt;img alt=&#34;Montreal&#34; loading=&#34;lazy&#34; src=&#34;https://gramajo.blog/images/7D21B780-9F86-4BAA-B75D-DB0FA8188251.jpeg&#34;&gt;&lt;img alt=&#34;Montreal&#34; loading=&#34;lazy&#34; src=&#34;https://gramajo.blog/images/B3AA9AF7-A013-4496-A9FF-E4BE823BFFAF.jpeg&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Montreal Final Day</title>
-      <link>https://examplesite.com/posts/montreal-final-day/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/montreal-final-day/</guid>
-      <description>&lt;p&gt;Final day in Montreal. Rachael was able to find the old post office I was after for my NFT project (Gramajo’s Delivery Service). We even randomly found a old school Royal Mail box at Crew Collective which was a place we went to on the first day which was nice.&lt;/p&gt;
-&lt;p&gt;![[7849EB1D-A632-475F-A41C-3639E9CA662C.jpeg]]
-From there we went to the Norte Dame Basilica. Which we toured for a bit and most just sat down since we walked a lot this trip.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
